@@ -4,7 +4,9 @@
 
 **Desenvolvedores:**
 - Henrique Maciel — RM559628  
-- Igor Nociti — RM560225  
+- Igor Nociti — RM560225
+- Pedro Paulo Sabino Botelho - RM559578
+
 
 ---
 
